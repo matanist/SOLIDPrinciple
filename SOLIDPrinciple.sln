@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClose_BadDesign", "Open
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClose_GoodDesign", "OpenClose_GoodDesign\OpenClose_GoodDesign.csproj", "{EDF9DCB4-C1C6-45D1-AA10-1304D259B579}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSubstitution_GoodDesign", "LiskovSubstitution_GoodDesign\LiskovSubstitution_GoodDesign.csproj", "{5C9C5C74-8FEE-4EA0-A8A3-470E7E829BBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,10 @@ Global
 		{EDF9DCB4-C1C6-45D1-AA10-1304D259B579}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDF9DCB4-C1C6-45D1-AA10-1304D259B579}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDF9DCB4-C1C6-45D1-AA10-1304D259B579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C9C5C74-8FEE-4EA0-A8A3-470E7E829BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C9C5C74-8FEE-4EA0-A8A3-470E7E829BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C9C5C74-8FEE-4EA0-A8A3-470E7E829BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C9C5C74-8FEE-4EA0-A8A3-470E7E829BBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -52,6 +58,7 @@ Global
 		{D4CAC7F1-F5D3-40B4-A9FD-2D9C87CBA5C4} = {C3543BC0-29DD-445B-94F5-39CBE9F419A2}
 		{5C17E1B4-8F68-41C7-B5AD-B70B6C819B75} = {E309F866-1FA3-47DD-AF9D-6DB67FBC3192}
 		{EDF9DCB4-C1C6-45D1-AA10-1304D259B579} = {E309F866-1FA3-47DD-AF9D-6DB67FBC3192}
+		{5C9C5C74-8FEE-4EA0-A8A3-470E7E829BBB} = {F49E673B-423A-4DDF-ADBB-8F3B30B545CE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4D51439A-E63B-447E-B595-2F133BC39101}
